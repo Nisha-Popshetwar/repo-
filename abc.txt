@@ -3,5 +3,7 @@ abc
 content added
 xyz is another
 this is abc file
+<<<<<<< HEAD
 make a few changes
+
 
